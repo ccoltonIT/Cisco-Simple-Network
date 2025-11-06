@@ -10,7 +10,8 @@ It was created as part of my IT coursework to understand how devices communicate
 
 ## 🖼️ Network Topology
 
-![Simple Network Topology](simple-network.png) 
+![Simple Network Topology](Screenshot 2025-11-06 185202.png) 
+![Simple Network Topology](Screenshot 2025-11-06 185202.png) 
 
 ## 🧰 Tools Used
 - Cisco Packet Tracer
