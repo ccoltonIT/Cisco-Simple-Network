@@ -16,3 +16,7 @@ It was created as part of my IT coursework to understand how devices communicate
 - How to assign IP addresses to interfaces
 - How to connect devices using Ethernet cables
 - How to use `ping` to test connectivity between hosts
+
+ ⚠️ This lab was provided by Cisco Networking Academy as part of the Packet Tracer learning exercises.  
+I completed and configured the network to demonstrate my understanding of basic network design and connectivity.
+
