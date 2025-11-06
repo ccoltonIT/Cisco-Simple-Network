@@ -8,6 +8,10 @@ It was created as part of my IT coursework to understand how devices communicate
 - 1 router connecting to the switch
 - Configured IP addresses and verified connectivity using `ping`
 
+## 🖼️ Network Topology
+
+![Simple Network Topology](simple-network.png) 
+
 ## 🧰 Tools Used
 - Cisco Packet Tracer
 - Windows Command Prompt
@@ -19,4 +23,5 @@ It was created as part of my IT coursework to understand how devices communicate
 
  ⚠️ This lab was provided by Cisco Networking Academy as part of the Packet Tracer learning exercises.  
 I completed and configured the network to demonstrate my understanding of basic network design and connectivity.
+
 
