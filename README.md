@@ -8,6 +8,12 @@ It was created as part of my IT coursework to understand how devices communicate
 - 1 router connecting to the switch
 - Configured IP addresses and verified connectivity using `ping`
 
+## 📡 Ping Test Results
+
+This screenshot shows successful connectivity between devices.
+
+![Ping Test Results](ping-test.png)
+
 ## 🖼️ Network Topology
 
 ![Simple Network Topology](simple-network.png)
